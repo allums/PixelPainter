@@ -70,7 +70,7 @@ applyColor();
     
 
 
-
+// erase a pixel
     function erasePixel() {
 
 
