@@ -1,0 +1,35 @@
+#pixelPainter #color-palette{
+	/*border: 1px solid black;*/
+	width: 300px;
+	height: 300px;
+	display: inline-block;
+}
+
+#pp-canvas {
+	display: inline-block;
+	width: 500px;
+}
+
+#pp-canvas .box, 
+
+#color-palette .box {
+	
+	width: 100px;
+	height: 100px;
+	border: 1px solid black;
+
+
+}
+
+#blue {
+	background-color: blue;
+}
+
+#red {
+	background-color: red;
+}
+
+#yellow {
+	background-color: yellow;
+}
+
